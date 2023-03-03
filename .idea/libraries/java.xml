@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/dictionary-reader/src/main/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/dictionary-reader/src/test/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/english/src/main/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/english/src/test/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/morph/src/main/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/russian/src/main/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/russian/src/test/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/solr-morphology-analysis/src/main/java" />
+      <root url="file://$MAVEN_REPOSITORY$/russianmorphology-master/russianmorphology-master/solr-morphology-analysis/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
